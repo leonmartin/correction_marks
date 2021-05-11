@@ -20,7 +20,7 @@ Line marks are always entered on the right side of the text. When multiple line 
 
 ## Float Marks
 
-Float marks are a specific type of marks for annotating floating elements like figures, tables, listings and so on. Floating marks are always entered on the right side of the floating element. When multiple float marks refer to words in the same floating element they are stacked sideways in arbitrary order.
+Float marks are a specific type of marks for annotating floating elements like figures, tables, listings and so on. Float marks are always entered on the right side of the floating element. When multiple float marks refer to words in the same floating element they are stacked sideways in arbitrary order.
 
 ## Other Marks
 
@@ -28,5 +28,5 @@ Other marks address miscellaneous aspects of marking and the marking process. So
 
 # Modifiers
 
-To increase flexibility, the blank marks described above can be tweaked using a set of modifiers. The modifiers of correction marks are always entered on the right of the modified annotation in superscript or subscript. Similar to the alternative notation of the general marks, they should be used only when necessary since excessive use can negatively affect the legibility of your correction marks.
+To increase flexibility, the blank marks described above can be tweaked using a set of modifiers. The modifiers of correction marks are always entered on the right of the modified annotation in superscript. Similar to the alternative notation of the general marks, they should be used only when necessary since excessive use can negatively affect the legibility of your correction marks.
 
