@@ -8,9 +8,11 @@ There are four different types of correction marks:
 
 ## General Marks
 
-General marks are the most versatile mark type because they can be used to annotate one or more consecutive lines of text at once, or even floating elements like figures. Therefore, they are designed such that their pattern can be repeated in accordance to the length of the passage to be annotated. However, annotating very long passages this way can become cumbersome. For such cases, there is an alternative notation that leverages arrows to indicate the beginning and the end of an annotation block. The alternative notation should only be used when necessary since excessive use can negatively affect the legibility of your correction marks.
+General marks are the most versatile mark type because they can be used to annotate one or more consecutive lines of text at once, or even floating elements like figures. Therefore, they are designed such that their pattern can be repeated in accordance to the length of the passage to be annotated. However, annotating very long passages this way can become cumbersome. For such cases, some general marks feature an alternative notation that leverages arrows to indicate the beginning and the end of an annotation block. The alternative notation should only be used when necessary since excessive use can negatively affect the legibility of your correction marks.
 
-General marks are always entered on the left side of the text. When multiple general marks refer to the same line(s) they are stacked sideways in arbitrary order.
+General marks are always entered on the left side of the text. When multiple general marks span the same line(s) they are stacked sideways in arbitrary order.
+
+![General Marks](./img/general_marks.svg "General Marks")
 
 ## Line Marks
 

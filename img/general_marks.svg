@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="801" height="322"
+    viewBox="-.5 -.5 801 322">
+    <path fill="white" stroke="#000" pointer-events="all"
+        d="M0 0h160v320H0zM160 0h160v320H160zM320 0h160v320H320zM480 0h160v320H480zM640 0h160v320H640z" />
+    <path d="M20 60l40-40M60 100L20 60M20 140l40-40M60 180l-40-40M20 220l40-40" fill="none" stroke="red"
+        stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+    <path fill="none" pointer-events="all" d="M20 260h120v40H20z" />
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject style="text-align:left" pointer-events="none" width="100%" height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+            <div xmlns="http://www.w3.org/1999/xhtml"
+                style="align-items:unsafe center;justify-content:unsafe center;width:118px;height:1px;padding-top:280px;margin-left:21px"
+                display="flex">
+                <div style="box-sizing:border-box;text-align:center" font-size="0">
+                    <div style="line-height:1.2;white-space:normal;word-wrap:normal" display="inline-block"
+                        font-size="12" font-family="Helvetica" color="#000" pointer-events="all">
+                        <font font-size="20">Missing Sources</font>
+                    </div>
+                </div>
+            </div>
+        </foreignObject><text x="80" y="284" font-family="Helvetica" font-size="12" text-anchor="middle">Missing
+            Sources</text>
+    </switch>
+    <path d="M200 220V20" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+    <path fill="none" pointer-events="all" d="M180 260h120v40H180z" />
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject style="text-align:left" pointer-events="none" width="100%" height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+            <div xmlns="http://www.w3.org/1999/xhtml"
+                style="align-items:unsafe center;justify-content:unsafe center;width:118px;height:1px;padding-top:280px;margin-left:181px"
+                display="flex">
+                <div style="box-sizing:border-box;text-align:center" font-size="0">
+                    <div style="line-height:1.2;white-space:normal;word-wrap:normal" display="inline-block"
+                        font-size="12" font-family="Helvetica" color="#000" pointer-events="all">
+                        <font font-size="20">Typographic Problems</font>
+                    </div>
+                </div>
+            </div>
+        </foreignObject><text x="240" y="284" font-family="Helvetica" font-size="12" text-anchor="middle">Typographic
+            Problems</text>
+    </switch>
+    <path d="M100 60l40-40M120 80l-20-20M140 180l-20-20M100 220l40-40M120 146.71V160" fill="none" stroke="red"
+        stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+    <path d="M124.5 152.35l-4.5-9-4.5 9" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10"
+        pointer-events="all" />
+    <path d="M120 93.29V80" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+    <path d="M115.5 87.65l4.5 9 4.5-9" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10"
+        pointer-events="all" />
+    <path d="M280 93.29V20" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+    <path d="M275.5 87.65l4.5 9 4.5-9" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10"
+        pointer-events="all" />
+    <path d="M280 146.71V220" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10"
+        pointer-events="stroke" />
+    <path d="M284.5 152.35l-4.5-9-4.5 9" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10"
+        pointer-events="all" />
+    <path fill="none" pointer-events="all" d="M340 260h120v40H340z" />
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject style="text-align:left" pointer-events="none" width="100%" height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+            <div xmlns="http://www.w3.org/1999/xhtml"
+                style="align-items:unsafe center;justify-content:unsafe center;width:118px;height:1px;padding-top:280px;margin-left:341px"
+                display="flex">
+                <div style="box-sizing:border-box;text-align:center" font-size="0">
+                    <div style="line-height:1.2;white-space:normal;word-wrap:normal" display="inline-block"
+                        font-size="12" font-family="Helvetica" color="#000" pointer-events="all">
+                        <font font-size="20">Questionable Relevance</font>
+                    </div>
+                </div>
+            </div>
+        </foreignObject><text x="400" y="284" font-family="Helvetica" font-size="12" text-anchor="middle">Questionable
+            Relevan...</text>
+    </switch>
+    <path
+        d="M340 220q60-30 20-55t0-45M360 120q40-20 0-45t20-55M420 220q60-20 20-40t0-40M440 100q40-20 0-40t20-40M440 126.71V140"
+        fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+    <path d="M444.5 132.35l-4.5-9-4.5 9" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10"
+        pointer-events="all" />
+    <path d="M440 113.29V100" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10"
+        pointer-events="stroke" />
+    <path d="M435.5 107.65l4.5 9 4.5-9" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10"
+        pointer-events="all" />
+    <path fill="none" pointer-events="all" d="M500 260h120v40H500z" />
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject style="text-align:left" pointer-events="none" width="100%" height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+            <div xmlns="http://www.w3.org/1999/xhtml"
+                style="align-items:unsafe center;justify-content:unsafe center;width:118px;height:1px;padding-top:280px;margin-left:501px"
+                display="flex">
+                <div style="box-sizing:border-box;text-align:center" font-size="0">
+                    <div style="line-height:1.2;white-space:normal;word-wrap:normal" display="inline-block"
+                        font-size="12" font-family="Helvetica" color="#000" pointer-events="all">
+                        <font font-size="20">Requires Explanation</font>
+                    </div>
+                </div>
+            </div>
+        </foreignObject><text x="560" y="284" font-family="Helvetica" font-size="12" text-anchor="middle">Requires
+            Explanation</text>
+    </switch>
+    <path d="M560 200q0-70 15-90t20-40q5-20-5-35t-30-15q-20 0-30 10t-10 40" fill="none" stroke="red" stroke-width="3"
+        stroke-miterlimit="10" pointer-events="stroke" />
+    <circle cx="560" cy="215" fill="red" pointer-events="all" r="5" />
+    <path d="M719.71 200V20" fill="none" stroke="red" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+    <circle cx="720" cy="215" fill="red" pointer-events="all" r="5" />
+    <path fill="none" pointer-events="all" d="M660 260h120v40H660z" />
+    <switch transform="translate(-.5 -.5)">
+        <foreignObject style="text-align:left" pointer-events="none" width="100%" height="100%"
+            requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+            <div xmlns="http://www.w3.org/1999/xhtml"
+                style="align-items:unsafe center;justify-content:unsafe center;width:118px;height:1px;padding-top:280px;margin-left:661px"
+                display="flex">
+                <div style="box-sizing:border-box;text-align:center" font-size="0">
+                    <div style="line-height:1.2;white-space:normal;word-wrap:normal" display="inline-block"
+                        font-size="12" font-family="Helvetica" color="#000" pointer-events="all">
+                        <font font-size="20">Good Passage</font>
+                    </div>
+                </div>
+            </div>
+        </foreignObject><text x="720" y="284" font-family="Helvetica" font-size="12" text-anchor="middle">Good
+            Passage</text>
+    </switch>
+</svg>
